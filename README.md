@@ -15,4 +15,6 @@ Desarrolle (en pseudo código o su lenguaje de preferencia):
 - 2. Un algoritmo que resuelva el problema asumiendo que los recursos son un bien preciado, que el tiempo de ejecución si importa y que el tiempo de desarrollo no es importante. 
 Ante cualquier duda o ambigüedad en el enunciado, es libre de hacer todas las suposiciones necesarias, siempre y cuando las especifique. 
 
- 
+## Autor
+
+- [@ArielEzequielPerez](https://github.com/ArielEzequielPerez)
