@@ -1,0 +1,16 @@
+C:\Challenge\ExamenTecnico\bin\Debug\net5.0\ExamenTecnico.exe
+C:\Challenge\ExamenTecnico\bin\Debug\net5.0\ExamenTecnico.deps.json
+C:\Challenge\ExamenTecnico\bin\Debug\net5.0\ExamenTecnico.runtimeconfig.json
+C:\Challenge\ExamenTecnico\bin\Debug\net5.0\ExamenTecnico.runtimeconfig.dev.json
+C:\Challenge\ExamenTecnico\bin\Debug\net5.0\ExamenTecnico.dll
+C:\Challenge\ExamenTecnico\bin\Debug\net5.0\ref\ExamenTecnico.dll
+C:\Challenge\ExamenTecnico\bin\Debug\net5.0\ExamenTecnico.pdb
+C:\Challenge\ExamenTecnico\obj\Debug\net5.0\ExamenTecnico.csproj.AssemblyReference.cache
+C:\Challenge\ExamenTecnico\obj\Debug\net5.0\ExamenTecnico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Challenge\ExamenTecnico\obj\Debug\net5.0\ExamenTecnico.AssemblyInfoInputs.cache
+C:\Challenge\ExamenTecnico\obj\Debug\net5.0\ExamenTecnico.AssemblyInfo.cs
+C:\Challenge\ExamenTecnico\obj\Debug\net5.0\ExamenTecnico.csproj.CoreCompileInputs.cache
+C:\Challenge\ExamenTecnico\obj\Debug\net5.0\ExamenTecnico.dll
+C:\Challenge\ExamenTecnico\obj\Debug\net5.0\ref\ExamenTecnico.dll
+C:\Challenge\ExamenTecnico\obj\Debug\net5.0\ExamenTecnico.pdb
+C:\Challenge\ExamenTecnico\obj\Debug\net5.0\ExamenTecnico.genruntimeconfig.cache
